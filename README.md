@@ -1,5 +1,14 @@
 # MXPNP Manuals & Engineering Notes
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="branding/c02/mxpnp-white.svg">
+    <img src="branding/c02/mxpnp.svg" alt="MXPNP — by MX TECH / 萌新科技" width="480">
+  </picture>
+</p>
+
+[Official C02 SVG assets](branding/c02/)
+
 Documentation and engineering notes for MXPNP, an experimental desktop pick-and-place platform.
 
 ## Documentation
